@@ -3,3 +3,4 @@ A beginner friendly coding chalenge. Contains problem statement along with solut
 1. Day 1 - Contains duplicate
 2. Day 2 - Missing number
 3. Day 3 - Find disappeared numbers
+4. Day 4 - Single number
