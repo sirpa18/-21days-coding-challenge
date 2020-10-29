@@ -6,4 +6,5 @@ A beginner friendly coding chalenge. Contains problem statement along with solut
 4. Day 4 - Single number
 5. Day 5 - Anagram
 6. Day 6 - Find Minimum in Rotated Sorted Array
+7. Day 7 - Find Minimum in Rotated Sorted Array II
 
