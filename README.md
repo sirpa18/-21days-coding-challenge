@@ -8,4 +8,5 @@ A beginner friendly coding chalenge. Contains problem statement along with solut
 6. Day 6 - Find Minimum in Rotated Sorted Array
 7. Day 7 - Find Minimum in Rotated Sorted Array II
 8. day 8 - Two Sum II - Input array is sorted
+9. Majority Element
 
