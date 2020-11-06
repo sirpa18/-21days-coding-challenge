@@ -26,7 +26,7 @@ class Solution:
 # Logic:
 
 1.	create a dict and find the complement of the iterable value[i]
-2.	
+2.  return the index of the next number which follows.	
         
         
         
