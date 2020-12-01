@@ -10,4 +10,5 @@ A beginner friendly coding chalenge. Contains problem statement along with solut
 8. Day 8 - Two Sum II - Input array is sorted
 9. Day 9 - Majority Element 
 10. Day 10 - Move zeros
+11. Day 11 - Rotate Array
 
