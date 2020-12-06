@@ -13,3 +13,7 @@ A beginner friendly coding chalenge. Contains problem statement along with solut
 11. Day 11 - Rotate Array
 12. Day 12 - Roman to interger
 13. Day 13 - 3Sum
+14. Day 14 - Group Anagrams
+15. Day 15 - Find Pivot Index
+16. Day 16 - Duplicate Zeros
+17. Day 17 - Third Maximum Number
