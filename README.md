@@ -17,3 +17,7 @@ A beginner friendly coding chalenge. Contains problem statement along with solut
 15. Day 15 - Find Pivot Index
 16. Day 16 - Duplicate Zeros
 17. Day 17 - Third Maximum Number
+18. Day 18 - Shortest Unsorted Continuous Subarray
+19. Day 19 - Subarray Sum Equals K
+20. Day 20 - Squares of a Sorted Array
+21. Day 21 - First Unique Character in a String
